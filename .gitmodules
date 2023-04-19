@@ -1,0 +1,57 @@
+[submodule "ctp-bat"]
+	path = ctp-bat
+	url = https://github.com/catppuccin/bat
+[submodule "ctp-bottom"]
+	path = ctp-bottom
+	url = https://github.com/catppuccin/bottom
+[submodule "ctp-btop"]
+	path = ctp-btop
+	url = https://github.com/catppuccin/btop
+[submodule "ctp-catppuccin"]
+	path = ctp-catppuccin
+	url = https://github.com/catppuccin/catppuccin
+[submodule "ctp-cava"]
+	path = ctp-cava
+	url = https://github.com/catppuccin/cava
+[submodule "ctp-firefox-cascade"]
+	path = ctp-firefox-cascade
+	url = https://github.com/andreasgrafen/cascade
+[submodule "ctp-grub"]
+	path = ctp-grub
+	url = https://github.com/catppuccin/grub
+[submodule "ctp-hyprland"]
+	path = ctp-hyprland
+	url = https://github.com/catppuccin/hyprland
+[submodule "ctp-kde"]
+	path = ctp-kde
+	url = https://github.com/catppuccin/kde
+[submodule "ctp-kitty"]
+	path = ctp-kitty
+	url = https://github.com/catppuccin/kitty
+[submodule "ctp-obs"]
+	path = ctp-obs
+	url = https://github.com/catppuccin/obs
+[submodule "ctp-optifine"]
+	path = ctp-optifine
+	url = https://github.com/Gingeh/Optifine-Catppuccin
+[submodule "ctp-qt5ct"]
+	path = ctp-qt5ct
+	url = https://github.com/catppuccin/qt5ct
+[submodule "ctp-revolt"]
+	path = ctp-revolt
+	url = https://github.com/catppuccin/revolt
+[submodule "ctp-spicetify"]
+	path = ctp-spicetify
+	url = https://github.com/catppuccin/spicetify
+[submodule "ctp-steam"]
+	path = ctp-steam
+	url = https://github.com/catppuccin/steam
+[submodule "ctp-tty"]
+	path = ctp-tty
+	url = https://github.com/catppuccin/tty
+[submodule "ctp-waybar"]
+	path = ctp-waybar
+	url = https://github.com/catppuccin/waybar
+[submodule "ctp-webui"]
+	path = ctp-webui
+	url = https://github.com/Kettukaa/catppuccin-webui
