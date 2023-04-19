@@ -15,7 +15,7 @@
 	url = https://github.com/catppuccin/cava
 [submodule "ctp-firefox-cascade"]
 	path = ctp-firefox-cascade
-	url = https://github.com/andreasgrafen/cascade
+	url = https://github.com/RoootTheFox/dotfiles-ctp-firefox-cascade
 [submodule "ctp-grub"]
 	path = ctp-grub
 	url = https://github.com/catppuccin/grub
