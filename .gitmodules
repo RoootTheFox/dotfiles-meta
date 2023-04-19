@@ -54,4 +54,4 @@
 	url = https://github.com/catppuccin/waybar
 [submodule "ctp-webui"]
 	path = ctp-webui
-	url = https://github.com/Kettukaa/catppuccin-webui
+	url = https://github.com/roootthefox/dotfiles-ctp-webui
