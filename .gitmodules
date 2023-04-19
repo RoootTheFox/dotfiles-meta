@@ -55,3 +55,6 @@
 [submodule "ctp-webui"]
 	path = ctp-webui
 	url = https://github.com/roootthefox/dotfiles-ctp-webui
+[submodule "ArcMidnight-Cursors"]
+	url = https://github.com/roootthefox/dotfiles-arcmidnight-cursors
+	path = ArcMidnight-Cursors
